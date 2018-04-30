@@ -20,10 +20,10 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 The prerequisite for this video course is fundamental knowledge of Python. It is assumed that the viewer is familiar with all the common built-in data containers in Python, such as lists, sets, dictionaries, and tuples.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Anaconda 4.3
-Jupyter Notebook
-Python 3.x
-Pandas 0.20.1
+Anaconda 4.3<br/>
+Jupyter Notebook<br/>
+Python 3.x<br/>
+Pandas 0.20.1<br/>
 
 
 
