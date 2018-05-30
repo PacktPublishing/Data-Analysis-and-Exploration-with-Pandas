@@ -18,7 +18,8 @@ The pandas library is massive, and it's common for frequent users to be unaware 
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-The prerequisite for this video course is fundamental knowledge of Python. It is assumed that the viewer is familiar with all the common built-in data containers in Python, such as lists, sets, dictionaries, and tuples.
+Fundamental knowledge of Python.<br/>
+It is assumed that the viewer is familiar with all the common built-in data containers in Python, such as lists, sets, dictionaries, and tuples.
 ### Technical Requirements
 This course has the following software requirements:<br/>
 Anaconda 4.3<br/>
