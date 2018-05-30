@@ -8,11 +8,12 @@ The pandas library is massive, and it's common for frequent users to be unaware 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Installing the core Python tools for data analysis 
-<LI>Dealing with different data types in Python 
-<LI>Using NumPy for fast array computation 
-<LI>Using Pandas for data analysis 
-<LI>Framing a Data Science problem and using Python tools to solve it </LI></UL></DIV>
+<LI>Master the fundamentals of pandas to quickly begin exploring any dataset
+<LI>Explore the most crucial and common operations that you will perform during data analysis
+<LI>Build customized functions to apply to your groups.
+<LI>Restructure and tidy data to make data analysis and visualization easier
+<LI>Prepare real-world messy datasets for machine learning
+<LI>Combine and merge data from different sources through pandas SQL-like operations</LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
